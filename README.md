@@ -7,7 +7,7 @@
 </p>
 
 <h2 style="text-align:center" >
-  <a href="https://github.com/the-thunderdome/the-thunderdome.github.io">
+  <a href="https://github.com/the-thunderdome/the-thunderdome.github.io/wiki">
     Take me to the wiki
   </a>
 </h1>
