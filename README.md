@@ -1,3 +1,4 @@
-### Welcome to the Thunderdome
-
-![](https://media.giphy.com/media/RFIuO4XWzU8gg/giphy.gif)
+<p align="center">
+  <h1>Welcome to the Thunderdome</hi>
+  <img src="https://media.giphy.com/media/RFIuO4XWzU8gg/giphy.gif">
+</p>
