@@ -10,4 +10,4 @@
   <a href="https://github.com/the-thunderdome/the-thunderdome.github.io/wiki">
     Take me to the wiki
   </a>
-</h1>
+</h2>
